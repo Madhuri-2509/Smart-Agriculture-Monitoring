@@ -11,6 +11,12 @@ data analysis, vegetation monitoring, drought analysis, and GIS-based visualizat
 learning models will be implemented to classify crop conditions and identify possible drought risks.
 
 
-System Architecture:
-<img width="391" height="191" alt="System" src="https://github.com/user-attachments/assets/cb4e0936-997d-471b-aea8-a34cafd423cb" />
+
+System Architecture: <img width="391" height="191" alt="System" src="https://github.com/user-attachments/assets/cb4e0936-997d-471b-aea8-a34cafd423cb" />
+
+<img width="418" height="209" alt="Dashboard_3" src="https://github.com/user-attachments/assets/f5af3ba4-0177-477c-8e86-9a23f89794e5" />
+
+<img width="371" height="98" alt="K-Mean Labels" src="https://github.com/user-attachments/assets/94a33119-04e6-4111-b655-3e751597441f" />
+
+<img width="229" height="187" alt="Logestic" src="https://github.com/user-attachments/assets/cc6cfbb1-e506-420e-a68a-1d48c4a780e1" />
 
