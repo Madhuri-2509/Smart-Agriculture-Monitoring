@@ -8,4 +8,9 @@ that uses satellite vegetation data and weather information to analyze agricultu
 NDVI vegetation patterns, rainfall levels, and temperature trends to monitor crop health and identify drought-prone
 regions [1]. The project will use MODIS NDVI satellite datasets and NOAA weather datasets to perform exploratory
 data analysis, vegetation monitoring, drought analysis, and GIS-based visualizations. In addition, simple machine
-learning models will be implemented to classify crop conditions and identify possible drought risks 
+learning models will be implemented to classify crop conditions and identify possible drought risks.
+
+
+System Architecture:
+<img width="391" height="191" alt="System" src="https://github.com/user-attachments/assets/cb4e0936-997d-471b-aea8-a34cafd423cb" />
+
